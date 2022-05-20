@@ -23,7 +23,7 @@ Ao invés de fazer como acima, faça assim:
 ```
 Note que você consegue o que precisa alguns minutos antes e você não faz com que a outra pessoa fique esperando. Desta forma, a outra pessoa já pode ir pensando na resposta assim que recebe a sua mensagem!
 
-Quando você tenta ser polido não entrando logo no assunto ou pedido de ajuda, como se você estivesse presencialmente ou no telefone, você desperdiça muito tempo. O Chat não é para ser usado desta maneira. Digitar é muito mais devagar que falar. Ao invés de tentar ser agradável, você só está fazendo com que a outra pessoa fique esperando você escrever a sua pergunta, o que é uma perda de produtividade.
+Quando você tenta ser educado não entrando logo no assunto ou pedido de ajuda, como se você estivesse presencialmente ou no telefone, você desperdiça muito tempo. O Chat não é para ser usado desta maneira. Digitar é muito mais devagar que falar. Ao invés de tentar ser agradável, você só está fazendo com que a outra pessoa fique esperando você escrever a sua pergunta, o que é uma perda de produtividade.
 
 A mesma coisa para as famosas frases: “_Oi – Está aí?_”, “_Olá João – pergunta rápida._”, “_Você tem um segundo?_”, “_Tá aí?_” e “_ping_”. ** Faça a pergunta direto!**
 Se você acha muito brusco, só dizer “_Olá_” e ir direto para a pergunta, faça assim:
