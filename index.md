@@ -1,6 +1,6 @@
 ## Não diga simplesmente “_Olá_” no chat
 
-O protocolo moderno de comunicação por Chat deve ser feito de maneira que permita que todos os participantes ganhem tempo e permitir que uma comunicação assíncrona seja eficiente. **Não espere uma resposta se você simplesmente escrever “_Olá_” no chat**. Ao invés do tradicional “_Olá_”, formule a sua frase de maneira que os participantes possam responder a sua mensagem de uma maneira eficaz a assim que eles investirem tempo para ler a sua mensagem.
+O protocolo moderno de comunicação por Chat deve ser feito de maneira que todos os participantes ganhem tempo e permitir uma comunicação assíncrona, eficiente e eficaz. **Não espere uma resposta se você simplesmente escrever “_Olá_” no chat**. Ao invés do tradicional “_Olá_”, formule a sua frase de maneira que os participantes respondam a sua mensagem rapidamente, a assim que eles investirem tempo para ler a sua mensagem.
 
 ## A Etiqueta do Chat
 
