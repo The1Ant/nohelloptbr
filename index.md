@@ -14,7 +14,7 @@ O protocolo moderno de comunicação por Chat deve ser feito de maneira que todo
 2010-07-19 12:35:21 colaborador: Ah, É só fazer [reposta...]
 ```
 
-É como você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!
+**É como você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!**
 Ao invés de fazer como acima, faça assim:
 
 ```
