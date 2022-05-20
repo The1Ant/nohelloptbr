@@ -41,7 +41,8 @@ Ao invés de tentar testar a pessoa ou dizer “_Oi, você tem alguns minutos pa
 
 ```
 2020-07-08 12:32:12 você: Oi - você tem 10 min para uma ligação rápida para discutirmos XYZ? [etc...]
-Isso ajuda em três aspectos: Estima um tempo para a pessoa que vai responder, dá um contexto para a pessoa, e ajuda a você lembrar depois o que queria falar com a pessoa se ela não responder.
+Isso ajuda em três aspectos: Estima um tempo para a pessoa que vai responder, dá um contexto para a pessoa, 
+e ajuda a você lembrar depois o que queria falar com a pessoa se ela não responder.
 ```
 
 
