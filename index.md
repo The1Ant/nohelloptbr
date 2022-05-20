@@ -43,4 +43,5 @@ Ao invés de tentar testar a pessoa ou dizer “_Oi, você tem alguns minutos pa
 Isso ajuda em três aspectos: Estima um tempo para a pessoa que vai responder, dá um contexto para a pessoa, e ajuda a você lembrar depois o que queria falar com a pessoa se ela não responder.
 ```
 
-Original From https://aka.ms/nohello 
+
+Original From https://aka.ms/nohello | Translation and adaptaion by _The1Ant_
