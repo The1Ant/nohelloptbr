@@ -5,14 +5,16 @@ O protocolo moderno de comunicação por Chat deve ser feito de maneira que todo
 ## A Etiqueta do Chat
 
 ```
+# VOCÊ INICIA O CHAT ASSIM 
 2010-07-19 12:32:12 você: Olá
-2010-07-19 12:32:15 colaborador: Oi.
-# COLABORADOR ESPERA ENQUANTO VOCE ELABORA A SUA PERGUNTA
-2010-07-19 12:34:01 você: Eu estou trabalhando em [qualquer coisa] e estou tentando fazer xyz [etc...]
+# 8 SEGUNDOS DEPOIS 
+2010-07-19 12:32:20 colaborador: Oi.
+# COLABORADOR ESPERA ENQUANTO VOCE ELABORA A SUA PERGUNTA ( 2 minutos )
+2010-07-19 12:34:20 você: Eu estou trabalhando em [qualquer coisa] e estou tentando fazer XYZ [etc...]
 2010-07-19 12:35:21 colaborador: Ah, É só fazer [reposta...]
 ```
 
-É como se você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!
+É como você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!
 Ao invés de fazer como acima, faça assim:
 
 ```
