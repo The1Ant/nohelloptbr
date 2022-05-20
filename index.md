@@ -11,7 +11,7 @@ O protocolo moderno de comunicação por Chat deve ser feito de maneira que todo
 2010-07-19 12:32:20 colaborador: Oi.
 # COLABORADOR ESPERA ENQUANTO VOCE ELABORA A SUA PERGUNTA ( 2 minutos )
 2010-07-19 12:34:20 você: Eu estou trabalhando em [qualquer coisa] e estou tentando fazer XYZ [etc...]
-2010-07-19 12:35:21 colaborador: Ah, É só fazer [reposta...]
+2010-07-19 12:35:21 colaborador: Ah, É só fazer [resposta...]
 ```
 
 **É como você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!**
@@ -19,7 +19,7 @@ Ao invés de fazer como acima, faça assim:
 
 ```
 2010-07-19 12:32:12 você: Olá -- Eu estou trabalhando em [qualquer coisa] e estou tentando fazer XYZ [etc...]
-2010-07-19 12:33:32 colaborador: Ah, É só fazer [reposta...]
+2010-07-19 12:33:32 colaborador: Ah, É só fazer [resposta...]
 ```
 Note que você consegue o que precisa alguns minutos antes e você não faz com que a outra pessoa fique esperando. Desta forma, a outra pessoa já pode ir pensando na resposta assim que recebe a sua mensagem!
 
