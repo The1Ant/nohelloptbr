@@ -27,7 +27,8 @@ A mesma coisa para as famosas frases: “_Oi – Está aí?_”, “_Olá João 
 Se você acha muito brusco, só dizer “_Olá_” e ir direto para a pergunta, faça assim:
 
 ```
-2010-07-19 12:32:12 você: Olá -- se você não estiver muito ocupado, eu queria lhe perguntar sobre [qualquer coisa] que estou trabalhando e estou tentando fazer o seguinte [etc...]
+2010-07-19 12:32:12 você: Olá -- se você não estiver muito ocupado, eu queria lhe perguntar sobre [qualquer coisa] 
+que estou trabalhando e estou tentando fazer o seguinte [etc...]
 ```
 
 Adicionalmente, fazendo a sua pergunta antes de obter uma resposta, permite que você entre em uma comunicação **assíncrona**. Se a outra pessoa não estiver e você saia antes dela voltar, a outra pessoa vai ter a oportunidade de responder a sua pergunta, ao invés de ler o “_Olá_” e ficar imaginando o que você queria.
