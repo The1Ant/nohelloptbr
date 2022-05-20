@@ -37,15 +37,16 @@ Adicionalmente, fazendo a sua pergunta antes de obter uma resposta, permite que 
 
 ## A Etiqueta para chamada telefônica
 
-Algumas pessoas gostam de usar o “_Olá_” simplesmente para testar de o status de presença da pessoa é verdadeiro, na esperança de determinar se a pessoa está perto do equipamento e logo depois faz uma ligação.  Não faça isso. Se alguém estiver disponível para responder o seu Chat, não quer dizer que a pessoa está disponível para uma ligação ou uma teleconferência.
+Algumas pessoas gostam de usar o “_Olá_” no Chat simplesmente para validar se o status de presença da pessoa é verdadeiro, na esperança de determinar se a pessoa está perto e logo depois faz uma ligação telefônica.  Não faça isso. Se alguém estiver disponível para responder o seu Chat, não quer dizer que a pessoa está disponível para uma ligação ou uma teleconferência!
 
-Ao invés de tentar testar a pessoa ou dizer “_Oi, você tem alguns minutos para uma ligação?_” (É melhor que o teste, mas não é o ideal), você pode tentar algo assim:
+Ao invés de tentar testar para ver se a pessoa está disponível ou dizer “_Oi, você tem alguns minutos para uma ligação?_” (É melhor que o teste, mas não é o ideal), você pode tentar algo assim:
 
 ```
 2020-07-08 12:32:12 você: Oi - você tem 10 min para uma ligação rápida para discutirmos XYZ? [etc...]
+```
+
 Isso ajuda em três aspectos: Estima um tempo para a pessoa que vai responder, dá um contexto para a pessoa, 
 e ajuda a você lembrar depois o que queria falar com a pessoa se ela não responder.
-```
 
 
 Original From https://aka.ms/nohello | Translation and adaptaion by _The1Ant_
