@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Não diga simplesmente “_Olá_” no chat
 
-You can use the [editor on GitHub](https://github.com/The1Ant/nohelloptbr/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O protocolo moderno de comunicação por Chat deve ser feito de maneira que permita que todos os participantes ganhem tempo e permitir que uma comunicação assíncrona seja eficiente. **Não espere uma resposta se você simplesmente escrever “_Olá_” no chat**. Ao invés do tradicional “_Olá_”, formule a sua frase de maneira que os participantes possam responder a sua mensagem de uma maneira eficaz a assim que eles investirem tempo para ler a sua mensagem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## A Etiqueta do Chat
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+2010-07-19 12:32:12 você: Olá
+2010-07-19 12:32:15 colaborador: Oi.
+# COLABORADOR ESPERA ENQUANTO VOCE ELABORA A SUA PERGUNTA
+2010-07-19 12:34:01 você: Eu estou trabalhando em [qualquer coisa] e estou tentando fazer xyz [etc...]
+2010-07-19 12:35:21 colaborador: Ah, É só fazer [reposta...]
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+É como se você ligar para alguém no telefone, falar “Alô” e colocar a pessoa em espera!
+Ao invés de fazer como acima, faça assim:
 
-### Jekyll Themes
+```
+2010-07-19 12:32:12 você: Olá -- Eu estou trabalhando em [qualquer coisa] e estou tentando fazer XYZ [etc...]
+2010-07-19 12:33:32 colaborador: Ah, É só fazer [reposta...]
+```
+Note que você consegue o que precisa alguns minutos antes e você não faz com que a outra pessoa fique esperando. Desta forma, a outra pessoa já pode ir pensando na resposta assim que recebe a sua mensagem!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/The1Ant/nohelloptbr/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Quando você tenta ser polido não entrando logo no assunto ou pedido de ajuda, como se você estivesse presencialmente ou no telefone, você desperdiça muito tempo. O Chat não é para ser usado desta maneira. Digitar é muito mais devagar que falar. Ao invés de tentar ser agradável, você só está fazendo com que a outra pessoa fique esperando você escrever a sua pergunta, o que é uma perda de produtividade.
 
-### Support or Contact
+A mesma coisa para as famosas frases: “_Oi – Está aí?_”, “_Olá João – pergunta rápida._”, “_Você tem um segundo?_”, “_Tá aí?_” e “_ping_”. ** Faça a pergunta direto!**
+Se você acha muito brusco, só dizer “_Olá_” e ir direto para a pergunta, faça assim:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+2010-07-19 12:32:12 você: Olá -- se você não estiver muito ocupado, eu queria lhe perguntar sobre [qualquer coisa] que estou trabalhando e estou tentando fazer o seguinte [etc...]
+```
+
+Adicionalmente, fazendo a sua pergunta antes de obter uma resposta, permite que você entre em uma comunicação **assíncrona**. Se a outra pessoa não estiver e você saia antes dela voltar, a outra pessoa vai ter a oportunidade de responder a sua pergunta, ao invés de ler o “_Olá_” e ficar imaginando o que você queria.
+
+## A Etiqueta para chamada telefônica
+
+Algumas pessoas gostam de usar o “_Olá_” simplesmente para testar de o status de presença da pessoa é verdadeiro, na esperança de determinar se a pessoa está perto do equipamento e logo depois faz uma ligação.  Não faça isso. Se alguém estiver disponível para responder o seu Chat, não quer dizer que a pessoa está disponível para uma ligação ou uma teleconferência.
+
+Ao invés de tentar testar a pessoa ou dizer “_Oi, você tem alguns minutos para uma ligação?_” (É melhor que o teste, mas não é o ideal), você pode tentar algo assim:
+
+```
+2020-07-08 12:32:12 você: Oi - você tem 10 min para uma ligação rápida para discutirmos XYZ? [etc...]
+Isso ajuda em três aspectos: Estima um tempo para a pessoa que vai responder, dá um contexto para a pessoa, e ajuda a você lembrar depois o que queria falar com a pessoa se ela não responder.
+```
+
+Original From https://aka.ms/nohello 
